@@ -1,6 +1,6 @@
 # Nova Deep Market Agent
 
-**AI Market Analysis Agent for Binance Agent OS Mini Hackathon – Track A**
+**AI Market Analysis Agent for Binance Agent OS Mini Hackathon 
 
 ---
 
